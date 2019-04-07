@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Android UI组件</string>
+    <string name="textv_text">用于测试的内容</string>
+    <string name="fontsize_small">小</string>
+    <string name="fontsize_middle">中</string>
+    <string name="fontsize_big">大</string>
+    <string name="common_menu">普通菜单项</string>
+    <string name="fontcolor">字体颜色</string>
+    <string name="fontcolor_red">红色</string>
+    <string name="fontcolor_black">黑色</string>
+    <string name="btn_toPage_mylistview">To MyListView</string>
+    <string name="btn_toPage_MyDialog">To MyDialog</string>
+    <string name="btn_toPage_showmenu">To ShowMenu</string>
+    <string name="lv1">One</string>
+    <string name="lv2">Two</string>
+    <string name="lv3">Three</string>
+    <string name="lv4">Four</string>
+    <string name="lv5">Five</string>
+    <string name="action_delete">删除</string>
+    <string name="action_choose_all">选中全部</string>
+    <string name="btn_toPage_ActionMode">To ActionMode</string>
+</resources>
